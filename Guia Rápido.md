@@ -52,7 +52,7 @@ Listar bancos:
 
 Conectar em um banco:
 
-```sql
+\l```sql
 \c loja
 ```
 
